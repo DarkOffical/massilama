@@ -347,10 +347,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{files.file_name}"
         buttons = [
             [
-                InlineKeyboardButton('ՏႮᏢᏢϴᎡͲ 🔥', url='https://t.me/mksupport1')
+                InlineKeyboardButton('ՏႮᏢᏢϴᎡͲ 🔥', url='https://t.me/movieclub1241')
             ],
             [
-                InlineKeyboardButton('ҒᏆᎡՏͲ ՏᎻϴᏔᎬᎡՏ', url=f'https://t.me/firstshowers')
+                InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐂𝐋𝐔𝐁 📺🎥', url=f'https://t.me/mnxmovies124')
             ]
             ]
             
@@ -399,11 +399,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{title}"
         buttons = [
             [
-                InlineKeyboardButton('support', url='https://t.me/mksupport1'),
-                InlineKeyboardButton('channel', url='https://t.me/mksupport1')
+                InlineKeyboardButton('support', url='https://t.me/movieclub1241'),
+                InlineKeyboardButton('channel', url='https://t.me/movieclub1241')
             ],
             [
-                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/mksupport1')
+                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/movieclub1241')
             ]
             ]
         await query.answer()
@@ -657,7 +657,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᎪᏴϴႮͲ🎀', callback_data='about')
             ],[
             InlineKeyboardButton('ՏᎬᎪᎡᏟᎻ🗂️', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ႮᏢᎠᎪͲᎬՏ 🎐', url='https://t.me/mksupport1'),
+            InlineKeyboardButton('ႮᏢᎠᎪͲᎬՏ 🎐', url='https://t.me/movieclub1241'),
             ],[
             InlineKeyboardButton('ᏟᏞϴՏᎬ💤', callback_data='close_data')
         ]]
