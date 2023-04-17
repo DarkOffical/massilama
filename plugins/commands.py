@@ -20,7 +20,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🔥ႮᏢᎠᎪͲᎬՏ', url='https://t.me/movieclub1241')
+                InlineKeyboardButton('🔥ႮᏢᎠᎪͲᎬՏ', url='https://t.me/+TbWfBUt0ZStmMmE9')
             ],
             [
                 InlineKeyboardButton('ᎻᎬᏞᏢ', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -46,7 +46,7 @@ async def start(client, message):
             InlineKeyboardButton('ᎪᏴϴႮͲ🎀', callback_data='about')
             ],[
             InlineKeyboardButton('ՏᎬᎪᎡᏟᎻ🗂️', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ႮᏢᎠᎪͲᎬՏ 💖', url='https://t.me/movieclub1241'),
+            InlineKeyboardButton('ႮᏢᎠᎪͲᎬՏ 💖', url='https://t.me/+TbWfBUt0ZStmMmE9'),
             ],[
             InlineKeyboardButton('ᏟᏞϴՏᎬ💤', callback_data='close_data')
         ]]
@@ -91,7 +91,7 @@ async def start(client, message):
             InlineKeyboardButton('ᎪᏴϴႮͲ🎀', callback_data='about')
             ],[
             InlineKeyboardButton('ՏᎬᎪᎡᏟᎻ🗂️', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ႮᏢᎠᎪͲᎬՏ 💖', url='https://t.me/movieclub1241'),
+            InlineKeyboardButton('ႮᏢᎠᎪͲᎬՏ 💖', url='https://t.me/+TbWfBUt0ZStmMmE9'),
             ],[
             InlineKeyboardButton('ᏟᏞϴՏᎬ💤', callback_data='close_data')   
         ]]
@@ -133,10 +133,10 @@ async def start(client, message):
                 f_caption = f"{title}"
             buttons = [
                 [
-                    InlineKeyboardButton('ՏႮᏢᏢϴᎡͲ 🔥', url='https://t.me/movieclub1241'),
+                    InlineKeyboardButton('ՏႮᏢᏢϴᎡͲ 🔥', url='https://t.me/+TbWfBUt0ZStmMmE9'),
                 ],
                 [
-                    InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐂𝐋𝐔𝐁 📺🎥', url=f'https://t.me/mnxmovies124')
+                    InlineKeyboardButton('FILM CUBE🎥™1️⃣', url=f'https://t.me/film_cube_group')
                 ]
                 ]
             try:
@@ -236,10 +236,10 @@ async def start(client, message):
         f_caption = f"{files.file_name}"
     buttons = [
         [
-            InlineKeyboardButton('ՏႮᏢᏢϴᎡͲ 🔥', url='https://t.me/movieclub1241'),
+            InlineKeyboardButton('ՏႮᏢᏢϴᎡͲ 🔥', url='https://t.me/+TbWfBUt0ZStmMmE9'),
         ],
         [
-            InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐂𝐋𝐔𝐁 📺🎥', url=f'https://t.me/mnxmovies124')
+            InlineKeyboardButton('FILM CUBE🎥™1️⃣', url=f'https://t.me/film_cube_group')
         ]
         ]
     await client.send_cached_media(
