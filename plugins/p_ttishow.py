@@ -38,7 +38,7 @@ async def save_group(bot, message):
             return
         buttons = [[
             InlineKeyboardButton('ᎻᎬᏞᏢ', url=f"https://t.me/{temp.U_NAME}?start=help"),
-            InlineKeyboardButton('ႮᏢᎠᎪͲᎬՏ🔥', url='https://t.me/movieclub1241')
+            InlineKeyboardButton('ႮᏢᎠᎪͲᎬՏ🔥', url='https://t.me/+TbWfBUt0ZStmMmE9')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -47,7 +47,7 @@ async def save_group(bot, message):
     else:
         for u in message.new_chat_members:
             zaute = [[
-            InlineKeyboardButton('👉 ⚠️ Press me... 🥰 👈', url="https://t.me/mnxmovies124")
+            InlineKeyboardButton('👉 ⚠️ Press me... 🥰 👈', url="https://t.me/filmcubee")
         ]]
             if (temp.MELCOW).get('welcome') is not None:
                 try:
