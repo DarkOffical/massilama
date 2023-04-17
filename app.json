@@ -1,5 +1,5 @@
 {
-    "name": "★彡[ꜱᴀɴɪʏᴀ ɪʏᴀᴘᴘᴀɴ]彡★",
+    "name": "ᴘᴇᴛᴇʀ ɢʀɪꜰꜰɪɴ",
     "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
     "stack": "container",
     "logo": "https://telegra.ph/file/0a46a2676bd13b349db4d.jpg",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/darkpc1412/massilama",
-    "repository": "https://github.com/darkpc1412/massilama",
+    "website": "https://github.com/DarkOffical/massilama",
+    "repository": "https://github.com/DarkOffical/massilama",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
